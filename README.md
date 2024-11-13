@@ -12,3 +12,4 @@
 
 
 ### Ссылка на датасеты: https://drive.google.com/drive/folders/15EZRIYED6Mh_HSa-NRibIn7BGkEv0bRe?hl=ru
+#### Если плохо видны графики можно посмотреть их в папке html
